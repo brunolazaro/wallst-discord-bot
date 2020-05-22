@@ -1,6 +1,18 @@
 # WallSt Discord Bot
 My first Discord bot, written in Python!
 
+
+Requirements
+------------
+
+* `Python <https://www.python.org>`_ >= 3.4+
+* `Pandas <https://github.com/pydata/pandas>`_
+* `Numpy <http://www.numpy.org>`_ >= 1.11.1
+* `requests <http://docs.python-requests.org/en/master/>`_ >= 2.14.2
+* `yfinance <https://pypi.org/project/yfinance/>`_
+* `COVID19Py <https://pypi.org/project/COVID19Py/>`_
+* `discord.py <https://pypi.org/project/discord.py/>`_
+
 Commands List
 -------------
 | Commmand | Description | Example | 

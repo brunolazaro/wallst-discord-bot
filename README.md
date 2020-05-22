@@ -13,6 +13,12 @@ Requirements
 * [COVID19Py](https://pypi.org/project/COVID19Py/)
 * [discord.py](https://pypi.org/project/discord.py/)
 
+
+Video Demonstration
+-------------
+https://www.youtube.com/watch?v=3lF8_CR3VCM
+
+
 Commands List
 -------------
 | Commmand | Description | Example | 
@@ -43,6 +49,7 @@ Commands List
 | `.pvalue periods final_amount interest` | Calculates the present value | `.pvalue 6 500 0.01` |
 | `.covid COUNTRY_CODE` | Shows CoronaVirus (COVID-19) cases in a Country | `.covid US` |
 | `.search TEXT` | Search for News | `.search football` |
+
 
 License
 -------------

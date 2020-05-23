@@ -1,5 +1,5 @@
 # WallSt Discord Bot
-My first Discord bot, written in Python! This bot has multiple functions that might help students that are having online classes in Discord.
+My first Discord bot, written in Python! This bot has multiple useful functions for people who enjoy finance and use Discord!
 
 
 Requirements
